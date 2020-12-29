@@ -1,2 +1,5 @@
 nou fitxer
 Ampliem contingut
+||||||| 39720f5
+nou fitxer
+nou fitxer millorat a través de branch1
